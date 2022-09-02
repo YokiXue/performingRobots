@@ -1,6 +1,7 @@
 **Reading Response**
-Material: Autonomous Robots as Performing Agents by Karl R. Wurst and Robert McCartney
 ===================
+Material: Autonomous Robots as Performing Agents by Karl R. Wurst and Robert McCartney
+-------------------
 
 This paper discusses how physical agents can be employed in the performance like their counterparts in visual media, and how autonomous agents carry out the multi-end communication with the director and the audience. I was particularly intrigued by the claim that the audience can form “more immediate rapport with a puppet than they do with an animation because of the physical presence”. As a student who has previous experience in computer-generated animation, I definitely agree with that but also with reservations. It is true that visuals in the digital format are sensorily more distant from the audience and thus harder to evoke the same emotional responses as in real scenarios. It reminds me of watching the robot version of Snow White at the 2021 FALL IM Showcase. When one of the robots playing the dwarf fell on stage, many in the audience, including myself, had a greater emotional down. With all attention drawn to him, we were very solicitous of what happened to this actor. I do not think I would have the same emotional reaction at the sight of an animated dwarf falling over. Analogous to the comparison between theatre and film, some believe that theatre is the greatest of all forms to tell a story, because of the most immediate way in which the audience perceives the contents. 
 
