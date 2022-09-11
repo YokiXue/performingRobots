@@ -1,1 +1,8 @@
+**Reading Response**
+===================
+*Material: New Media Dramaturgy Performance Media and New-Materialism Chapter 5: Robots: Asleep, Awake, Alone, and in Love*
 
+
+In the chapter “Robots: Asleep, Awake, Alone, and in Love,” the author looks into four robot and android theatre works to reevaluate the human and robot interaction in dramaturgy. Even though I found the philosophical ideas involved very hard to comprehend, I still gained some insightful takeaways. One intriguing point is that anthropomorphism in appearance design is not the only path to invoking the audience’s empathy, but can even be a cumber given that mimicking human-being is enormously costly and requires significant labor and technology. The Fish-Bird performance by Mari Velonaki was really impressive in “disguising” two characters in the form the wheelchairs and having them communicate through movement and human-like written text. There is clearly no attempt to visually anthropomorphize the wheelchair, but it still managed to convey meaningful transactions to the audience. 
+
+Another interesting claim is that seeing robots falling asleep or falling in love or some other expression of human frailty is central to the development of human attachment and empathy. It also applies to the Fish-Bird performance where two impersonated characters fall in love but cannot be together due to “technical” diﬃculties. I was very curious about why a fragile robot can have such psychological effects on humans compared with its counterpart, like an energetic or a convivial android. Furthermore, why would humans find the hyperobject - the gyre of plastic bags in the middle of the Pacific or a robot exceeding the worldly parameters - unappealing and even repellent?
