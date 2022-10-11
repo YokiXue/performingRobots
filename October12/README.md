@@ -1,6 +1,6 @@
 **Reading Response**
-= = = = = = = = = = = = = = = = = = =
-*Material: Thinking Something Makes It So ': Performing Robots, the Workings of Mimesis and the Importance of Character By Louise LePage*
+===================
+*Material: Thinking Something Makes It So’: Performing Robots, the Workings of Mimesis and the Importance of Character By Louise LePage*
 
 
 
